@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-    <version>1.2.0.3</version>
-    <url>https://github.com/DCTool/MutipleThreadTool/releases/download/v1.2.0.3/MutipleThread.zip</url>
+    <version>1.2.0.4</version>
+    <url>https://github.com/DCTool/MutipleThreadTool/releases/download/v1.2.0.4/MutipleThread.zip</url>
     <changelog>Public tool</changelog>
     <mandatory>true</mandatory>
 </item>
